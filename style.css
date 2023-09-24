@@ -1,0 +1,10 @@
+body {
+    background-color: bisque;
+}
+
+canvas{
+    display: block;
+    margin: 0 auto;
+    background-color: aliceblue;
+    margin-top: 30vh;
+}
